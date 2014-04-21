@@ -76,6 +76,7 @@
     <Content Include="Images\stockvault-city-skyline-at-sunset_thumbnail.jpg" />
     <Content Include="Images\stockvault-ready-to-start102438.jpg" />
     <Content Include="Index.html" />
+    <Content Include="page.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
