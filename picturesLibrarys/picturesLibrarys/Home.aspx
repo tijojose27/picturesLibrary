@@ -1,11 +1,14 @@
-﻿<!DOCTYPE html>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="picturesLibrarys.Home" %>
+
+<!DOCTYPE html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title>Pictures Library</title>
-    <link href="page.css" rel="stylesheet" />
+<link href="page.css" rel="stylesheet" />
+<head runat="server">
+    <title>Picture Libaray Page</title>
 </head>
 <body>
-        <div class="wrapper">
+    <div class="wrapper">
             <div class="gallery_container">
                 <div class="credits"><h1>Tijo Jose</h1></div>
                 <div class="type"><h2>//  Photos</h2></div>
@@ -31,5 +34,10 @@
                 <div class="bottom"></div>
             </div>
         </div>
+    <form id="form1" runat="server">
+    <div>
+    
+    </div>
+    </form>
 </body>
 </html>
