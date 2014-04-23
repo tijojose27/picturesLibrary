@@ -66,17 +66,22 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Home.aspx" />
-    <Content Include="Images\dramatic-landscape127093.jpg" />
-    <Content Include="Images\early-sunrays102413.jpg" />
-    <Content Include="Images\early-sunrays_thumbnail.jpg" />
-    <Content Include="Images\lanscape_thumnail.jpg" />
-    <Content Include="Images\path-in-nature124348.jpg" />
-    <Content Include="Images\path-in-nature_thumbnail.jpg" />
-    <Content Include="Images\person_thumbnail.jpg" />
-    <Content Include="Images\stockvault-city-skyline-at-sunset-113039.jpg" />
-    <Content Include="Images\stockvault-city-skyline-at-sunset_thumbnail.jpg" />
-    <Content Include="Images\stockvault-ready-to-start102438.jpg" />
-    <Content Include="page.css" />
+    <Content Include="Images\Templates\email.png" />
+    <Content Include="Images\Templates\page_bottom.jpg" />
+    <Content Include="Images\Templates\page_tile.jpg" />
+    <Content Include="Images\Templates\page_top.jpg" />
+    <Content Include="Images\Templates\search.png" />
+    <Content Include="Images\User Images\dramatic-landscape127093.jpg" />
+    <Content Include="Images\User Images\early-sunrays102413.jpg" />
+    <Content Include="Images\User Images\early-sunrays_thumbnail.jpg" />
+    <Content Include="Images\User Images\lanscape_thumnail.jpg" />
+    <Content Include="Images\User Images\path-in-nature124348.jpg" />
+    <Content Include="Images\User Images\path-in-nature_thumbnail.jpg" />
+    <Content Include="Images\User Images\person_thumbnail.jpg" />
+    <Content Include="Images\User Images\stockvault-city-skyline-at-sunset-113039.jpg" />
+    <Content Include="Images\User Images\stockvault-city-skyline-at-sunset_thumbnail.jpg" />
+    <Content Include="Images\User Images\stockvault-ready-to-start102438.jpg" />
+    <Content Include="gallery.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

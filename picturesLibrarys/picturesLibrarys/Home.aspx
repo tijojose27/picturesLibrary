@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<link href="page.css" rel="stylesheet" />
+<link href="gallery.css" rel="stylesheet" />
 <head runat="server">
     <title>Picture Libaray Page</title>
 </head>
 <body>
-    <div class="wrapper">
+    <div>
             <div class="gallery_container">
                 <div class="credits"><h1>Tijo Jose</h1></div>
                 <div class="type"><h2>//  Photos</h2></div>
