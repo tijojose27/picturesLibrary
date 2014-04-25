@@ -3,17 +3,17 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<link href="gallery.css" rel="stylesheet" />
 <head runat="server">
     <title>Picture Libaray Page</title>
+    <link href="gallery.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
     <div class="page_container">
         <div class="gallery_credit">
-            <h1>Tijo Jose</h1>
+            <h1 class="gallery_preview">Tijo Jose</h1>
         </div>
         <div class="gallery_type">
-            <h2>//  Photos</h2>
+            <h2>| Pictures |</h2>
         </div>
         <div class="clear_both"></div>
         <div class="gallery_top"></div>
