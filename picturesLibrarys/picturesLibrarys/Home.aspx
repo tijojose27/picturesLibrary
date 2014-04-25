@@ -8,36 +8,36 @@
     <title>Picture Libaray Page</title>
 </head>
 <body>
-    <div>
-            <div class="gallery_container">
-                <div class="credits"><h1>Tijo Jose</h1></div>
-                <div class="type"><h2>//  Photos</h2></div>
-                <div class="clear_both"></div>
-                <div class="top"></div>
-                <div class="content">
-                    <div class="thumbnails">
-                        //place images here
-
-                        <div class="clear_both"></div>
-                    </div>
-                    <div class="preview">
-                        <a href="images/gallery/acrobats_large.jpg"></a>
-                    </div>
-                    <div class="both"></div>
-                    <div class="contact">
-                        <p><a class="contactLink" href="mailto:tijojose27@yahoo.com">Contact Me</a></p>
-                    </div>
-                    <div class="caption"></div>
-                    <div class="both"></div>
-                    <div class="preload_area"></div>
-                </div>
-                <div class="bottom"></div>
-            </div>
+    <div class="page_container">
+        <div class="gallery_credit">
+            <h1>Tijo Jose</h1>
         </div>
-    <form id="form1" runat="server">
-    <div>
-    
+        <div class="gallery_type">
+            <h2>//  Photos</h2>
+        </div>
+        <div class="clear_both"></div>
+        <div class="gallery_top"></div>
+        <div class="gallery_content">
+            <div class="gallery_thumbnails">
+                LINK
+                        <div class="clear_both"></div>
+            </div>
+            <div class="gallery_preview">
+                img
+            </div>
+            <div class="clear_both"></div>
+            <div class="gallery_contact">
+                text
+            </div>
+            <div class="gallery_caption">text</div>
+            <div class="clear_both"></div>
+            <div class="gallery_preload_area"></div>
+        </div>
+        <div class="bottom"></div>
     </div>
+    <form id="form1" runat="server">
+        <div>
+        </div>
     </form>
 </body>
 </html>
