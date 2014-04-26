@@ -13,7 +13,7 @@
             <h1 class="gallery_preview">Tijo Jose</h1>
         </div>
         <div class="gallery_type">
-            <h2>| Pictures |</h2>
+            <h2>| Gallery |</h2>
         </div>
         <div class="clear_both"></div>
         <div class="gallery_top"></div>
