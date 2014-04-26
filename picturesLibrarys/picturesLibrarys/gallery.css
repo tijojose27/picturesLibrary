@@ -81,3 +81,21 @@ h2 {
     font-weight: normal;
     text-transform: uppercase;
 }
+a img {
+    border-style: none;
+}
+.gallery_thumbnails a {
+    border: 1px solid #666666;
+    padding: 0px;
+    margin: 0px 23px 23px 0px;
+    width: 75px;
+    float: left;
+    display: block;
+    height: 75px;
+}
+.gallery_thumbnails a:hover {
+    border-color: #FFFFFF;
+}
+.gallery_thumbnails a.selected {
+    border-color: #FFFFFF;
+}
