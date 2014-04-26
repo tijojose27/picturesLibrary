@@ -8,13 +8,9 @@
 </head>
 <body>
     <link href="gallery.css" rel="stylesheet" />
-    <div class="page_container">
-        <div class="gallery_credit">
-            <h1 class="gallery_preview">Tijo Jose</h1>
-        </div>
-        <div class="gallery_type">
-            <h2>| Gallery |</h2>
-        </div>
+    <div class="gallery_container">
+        <div class="gallery_credit"><h1>Tijo Jose</h1></div>
+        <div class="gallery_type"><h2>| Gallery |</h2></div>
         <div class="clear_both"></div>
         <div class="gallery_top"></div>
         <div class="gallery_content">
@@ -33,7 +29,7 @@
             <div class="clear_both"></div>
             <div class="gallery_preload_area"></div>
         </div>
-        <div class="bottom"></div>
+        <div class="gallery_bottom"></div>
     </div>
     <form id="form1" runat="server">
         <div>

@@ -4,13 +4,15 @@
 	background-color: #000000;
 	color: #FFFFFF;
 }
-.page_container{
+.gallery_container{
     width:960px;
     padding:0;
     margin:20px auto 0px auto;
 }
 .gallery_credit{
-
+    margin: 0px 0px 10px 15px;
+    float:left;
+    width:425px;
 }
 .gallery_type{
     margin:0px 0px 10px 0px;
@@ -23,28 +25,26 @@
     height:20px;
     padding:0px;
     margin:0px;
-    background:url(../Images/Templates/top.jpg)
+    background:url(../Images/Templates/top.jpg) no-repeat 0px 0px;
 }
 .gallery_content{
     margin:0px;
     padding:15px 0px 1px 0px;
-    background:url(../Images/Templates/title.jpg)
+    background:url(../Images/Templates/title.jpg) repeat-y 0px 0px;
 }
 .gallery_thumbnails{
     width:500px;
-    float:left;
     margin-left:40px;
+    float:left;
 }
 .gallery_preview{
     width:375px;
     height:375px;
     float:left;
-    padding:0px;
-    margin:0px;
 }
 .gallery_contact{
-    padding: 0px 23px 0px 0px;
-    margin: 0px 0px 0px 40px;
+    margin-left:40px;
+    padding-right:23px;
     width: 477px;
     float: left;
     height: 60px;
