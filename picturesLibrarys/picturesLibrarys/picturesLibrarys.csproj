@@ -67,9 +67,9 @@
   <ItemGroup>
     <Content Include="Home.aspx" />
     <Content Include="Images\Templates\email.png" />
-    <Content Include="Images\Templates\page_bottom.jpg" />
-    <Content Include="Images\Templates\page_tile.jpg" />
-    <Content Include="Images\Templates\page_top.jpg" />
+    <Content Include="Images\Templates\bottom.jpg" />
+    <Content Include="Images\Templates\tile.jpg" />
+    <Content Include="Images\Templates\top.jpg" />
     <Content Include="Images\Templates\search.png" />
     <Content Include="Images\User Images\dramatic-landscape127093.jpg" />
     <Content Include="Images\User Images\dramatic-landscape_thumbnailjpg.jpg" />

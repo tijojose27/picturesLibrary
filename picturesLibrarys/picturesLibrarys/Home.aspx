@@ -5,9 +5,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Picture Libaray Page</title>
-    <link href="gallery.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
+    <link href="gallery.css" rel="stylesheet" />
     <div class="page_container">
         <div class="gallery_credit">
             <h1 class="gallery_preview">Tijo Jose</h1>

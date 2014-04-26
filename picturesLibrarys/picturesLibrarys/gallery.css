@@ -23,12 +23,12 @@
     height:20px;
     padding:0px;
     margin:0px;
-    background:url(../Images/Templates/page_top1.jpg) no-repeat 0px 0px;
+    background:url(../Images/Templates/top.jpg)
 }
 .gallery_content{
     margin:0px;
     padding:15px 0px 1px 0px;
-    background:url(../Images/Templates/page_tile.jpg) repeat-y 0px 0px;
+    background:url(../Images/Templates/title.jpg)
 }
 .gallery_thumbnails{
     width:500px;
@@ -58,7 +58,7 @@
     height:20px;
     padding:0px;
     margin:0px;
-    background:url(../Images/Templates/page_bottom.jpg) no-repeat 0px 0px;
+    background:url(../Images/Templates/bottom.jpg) no-repeat 0px 0px;
 }
 .clear_both{
     clear:both;
