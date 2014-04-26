@@ -10,6 +10,8 @@
 </head>
 <body>
     <link href="gallery.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.1.0.min.js"></script>
+    <script src="gallery.js"></script>
     <div class="gallery_container">
         <div class="gallery_credit"><h1>Tijo Jose</h1></div>
         <div class="gallery_type"><h2>| Gallery |</h2></div>
@@ -35,7 +37,6 @@
                         <div class="clear_both"></div>
             </div>
             <div class="gallery_preview">
-                img
             </div>
             <div class="clear_both"></div>
             <div class="gallery_contact">
