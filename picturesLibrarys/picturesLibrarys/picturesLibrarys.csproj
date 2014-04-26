@@ -59,6 +59,16 @@
   <ItemGroup>
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
     <Content Include="gallery.js" />
+    <Content Include="Images\User Images\dramatic-landscape.jpg" />
+    <Content Include="Images\User Images\dramatic-landscape_preview.jpg" />
+    <Content Include="Images\User Images\early-sunrays.jpg" />
+    <Content Include="Images\User Images\early-sunrays_preview.jpg" />
+    <Content Include="Images\User Images\path-in-nature.jpg" />
+    <Content Include="Images\User Images\path-in-nature_preview.jpg" />
+    <Content Include="Images\User Images\stockvault-city-skyline-at-sunset.jpg" />
+    <Content Include="Images\User Images\stockvault-city-skyline-at-sunset_preview.jpg" />
+    <Content Include="Images\User Images\stockvault-ready-to-start.jpg" />
+    <Content Include="Images\User Images\stockvault-ready-to-start_preview.jpg" />
     <Content Include="Scripts\jquery-2.1.0.js" />
     <Content Include="Scripts\jquery-2.1.0.min.js" />
     <Content Include="Scripts\jquery-2.1.0.min.map" />
@@ -77,16 +87,11 @@
     <Content Include="Images\Templates\tile.jpg" />
     <Content Include="Images\Templates\top.jpg" />
     <Content Include="Images\Templates\search.png" />
-    <Content Include="Images\User Images\dramatic-landscape127093.jpg" />
     <Content Include="Images\User Images\dramatic-landscape_thumbnailjpg.jpg" />
-    <Content Include="Images\User Images\early-sunrays102413.jpg" />
     <Content Include="Images\User Images\early-sunrays_thumbnail.jpg" />
-    <Content Include="Images\User Images\path-in-nature124348.jpg" />
     <Content Include="Images\User Images\path-in-nature_thumbnail.jpg" />
     <Content Include="Images\User Images\person_thumbnail.jpg" />
-    <Content Include="Images\User Images\stockvault-city-skyline-at-sunset-113039.jpg" />
     <Content Include="Images\User Images\stockvault-city-skyline-at-sunset_thumbnail.jpg" />
-    <Content Include="Images\User Images\stockvault-ready-to-start102438.jpg" />
     <Content Include="gallery.css" />
     <Content Include="Web.config" />
   </ItemGroup>

@@ -19,19 +19,19 @@
         <div class="gallery_top"></div>
         <div class="gallery_content">
             <div class="gallery_thumbnails">
-                <a href="Images/User Images/dramatic-landscape127093.jpg" title="Landscape Image">
+                <a href="Images/User Images/dramatic-landscape.jpg" title="Landscape Image">
                     <img alt="landscape" class="auto-style2" src="Images/User%20Images/dramatic-landscape_thumbnailjpg.jpg" />
                 </a>
-                <a href="Images/User Images/early-sunrays102413.jpg" title="sunrays">
+                <a href="Images/User Images/early-sunrays.jpg" title="sunrays">
                     <img alt="landscape" class="auto-style2" src="Images/User%20Images/early-sunrays_thumbnail.jpg" />
                 </a>
-                <a href="Images/User Images/path-in-nature124348.jpg" title="Path">
+                <a href="Images/User Images/path-in-nature.jpg" title="Path">
                     <img alt="landscape" class="auto-style2" src="Images/User%20Images/path-in-nature_thumbnail.jpg" />
                 </a>
-                <a href="Images/User Images/stockvault-ready-to-start102438.jpg" title="Person">
+                <a href="Images/User Images/stockvault-ready-to-start.jpg" title="Person">
                     <img alt="landscape" class="auto-style2" src="Images/User%20Images/person_thumbnail.jpg" />
                 </a>
-                <a href="Images/User Images/stockvault-city-skyline-at-sunset-113039.jpg" title="Skyline">
+                <a href="Images/User Images/stockvault-city-skyline-at-sunset.jpg" title="Skyline">
                     <img alt="landscape" class="auto-style2" src="Images/User%20Images/stockvault-city-skyline-at-sunset_thumbnail.jpg" />
                 </a>
                         <div class="clear_both"></div>
