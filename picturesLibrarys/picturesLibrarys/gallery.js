@@ -19,7 +19,7 @@ $(document).ready(function () {
         var size = (photo_fullsize.length-4);
 
         var photo_preview = photo_fullsize.slice(0,parseInt(size))+"_preview"+photo_fullsize.slice(parseInt(size));
-        
-        $('.gallery_preview').html('<a href="' + photo_fullsize + '" title="' + photo_caption + '"  style="background-image:url(' + photo_fullsize + ');" ></a>');
+        alert(photo_fullsize);
+        $('.gallery_preview').html('<a class="overlayLink" title="' + photo_caption + '" href="' + photo_fullsize + '" style="background-image:url(' + photo_preview + ');"></a>');
     });
 })
