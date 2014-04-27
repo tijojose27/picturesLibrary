@@ -112,3 +112,30 @@ a img {
 .gallery_preview a:hover {
     border-color: #FFFFFF;
 }
+.gallery_preload_area{
+   display:none;
+}
+a.contactlink {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0px 30px 0px 0px;
+    margin: 0px;
+    background-image: url('Images/Templates/email.png');
+    background-repeat: no-repeat;
+    background-position: right 0px;
+}
+p {
+    color: #666666;
+    padding: 0px;
+    margin: 0px 0px 12px 0px;
+}
+a.zoom {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 0px 0px 5px 20px;
+    margin: 0px;
+    background-image: url('Images/Templates/search.png');
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}

@@ -69,6 +69,7 @@
     <Content Include="Images\User Images\stockvault-city-skyline-at-sunset_preview.jpg" />
     <Content Include="Images\User Images\stockvault-ready-to-start.jpg" />
     <Content Include="Images\User Images\stockvault-ready-to-start_preview.jpg" />
+    <Content Include="jquery.fancybox.css" />
     <Content Include="myImage\dramatic-landscape_preview.jpg" />
     <Content Include="Scripts\jquery-2.1.0.js" />
     <Content Include="Scripts\jquery-2.1.0.min.js" />
@@ -94,6 +95,7 @@
     <Content Include="Images\User Images\person_thumbnail.jpg" />
     <Content Include="Images\User Images\stockvault-city-skyline-at-sunset_thumbnail.jpg" />
     <Content Include="gallery.css" />
+    <Content Include="Scripts\jquery.fancybox.js" />
     <Content Include="Scripts\jquery.imgpreload.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>

@@ -7,10 +7,15 @@
     <title>Picture Libaray Page</title>
 </head>
 <body>
+    
     <link href="gallery.css" rel="stylesheet" />
+    <link href="jquery.fancybox.css" rel="stylesheet" />
+    
     <script src="Scripts/jquery-2.1.0.min.js"></script>
     <script src="Scripts/jquery.imgpreload.min.js"></script>
+    <script src="Scripts/jquery.fancybox.js"></script>
     <script src="gallery.js"></script>
+
     <div class="gallery_container">
         <div class="gallery_credit"><h1>Tijo Jose</h1></div>
         <div class="gallery_type"><h2>| Gallery |</h2></div>
@@ -38,10 +43,11 @@
             <div class="gallery_preview">
             </div>
             <div class="clear_both"></div>
-            <div class="gallery_contact">
-                text
+            <div class="gallery_contact"><p>
+                <a href="mailto:website@aol.com" class="contactlink">Contact Me</a>
+                </p>
             </div>
-            <div class="gallery_caption">text</div>
+            <div class="gallery_caption"></div>
             <div class="clear_both"></div>
             <div class="gallery_preload_area"></div>
         </div>
