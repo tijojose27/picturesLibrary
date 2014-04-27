@@ -87,7 +87,7 @@
     <Content Include="Images\Templates\tile.jpg" />
     <Content Include="Images\Templates\top.jpg" />
     <Content Include="Images\Templates\search.png" />
-    <Content Include="Images\User Images\dramatic-landscape_thumbnailjpg.jpg" />
+    <Content Include="Images\User Images\dramatic-landscape_thumbnail.jpg" />
     <Content Include="Images\User Images\early-sunrays_thumbnail.jpg" />
     <Content Include="Images\User Images\path-in-nature_thumbnail.jpg" />
     <Content Include="Images\User Images\person_thumbnail.jpg" />

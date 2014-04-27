@@ -16,8 +16,10 @@ $(document).ready(function () {
 
         var photo_caption = $(this).attr('title');
         var photo_fullsize = $(this).attr('href');
-        var photo_preview = photo_fullsize.replace('_fullsize', 'preview');
+        var size = (photo_fullsize.length-4);
 
-        $('.gallery_preview').html('<a href = "x" title="x" style="background-image:url(x);"></a>');
+        var photo_preview = photo_fullsize.slice(0,parseInt(size))+"_preview"+photo_fullsize.slice(parseInt(size));
+        
+        $('.gallery_preview').html('<a href="' + photo_fullsize + '" title="' + photo_caption + '"  style="background-image:url(' + photo_fullsize + ');" ></a>');
     });
 })
