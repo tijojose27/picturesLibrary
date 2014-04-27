@@ -5,12 +5,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Picture Libaray Page</title>
-    <style type="text/css">
-    </style>
 </head>
 <body>
     <link href="gallery.css" rel="stylesheet" />
     <script src="Scripts/jquery-2.1.0.min.js"></script>
+    <script src="Scripts/jquery.imgpreload.min.js"></script>
     <script src="gallery.js"></script>
     <div class="gallery_container">
         <div class="gallery_credit"><h1>Tijo Jose</h1></div>

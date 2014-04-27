@@ -94,6 +94,7 @@
     <Content Include="Images\User Images\person_thumbnail.jpg" />
     <Content Include="Images\User Images\stockvault-city-skyline-at-sunset_thumbnail.jpg" />
     <Content Include="gallery.css" />
+    <Content Include="Scripts\jquery.imgpreload.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
