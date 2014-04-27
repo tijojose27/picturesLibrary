@@ -41,6 +41,8 @@
     width:375px;
     height:375px;
     float:left;
+    display:block;
+    /*background-image:url('../Images/User Images/dramatic-landscape_preview.jpg')*/
 }
 .gallery_contact{
     margin-left:40px;
