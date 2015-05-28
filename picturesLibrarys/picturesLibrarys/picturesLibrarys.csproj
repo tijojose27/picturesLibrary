@@ -70,7 +70,6 @@
     <Content Include="Images\User Images\stockvault-ready-to-start.jpg" />
     <Content Include="Images\User Images\stockvault-ready-to-start_preview.jpg" />
     <Content Include="jquery.fancybox.css" />
-    <Content Include="myImage\dramatic-landscape_preview.jpg" />
     <Content Include="Scripts\jquery-2.1.0.js" />
     <Content Include="Scripts\jquery-2.1.0.min.js" />
     <Content Include="Scripts\jquery-2.1.0.min.map" />
