@@ -59,8 +59,3 @@
     </form>
 </body>
 </html>
-
-    </div>
-    </form>
-</body>
-</html>
