@@ -45,6 +45,7 @@
     /*background-image:url('../Images/User Images/dramatic-landscape_preview.jpg')*/
 }
 .gallery_contact{
+    margin-top:15px;
     margin-left:40px;
     padding-right:23px;
     width: 477px;
@@ -53,6 +54,7 @@
     text-align: right;
 }
 .gallery_caption{
+    margin:15px 0px 0px 0px;
     width:375px;
     float:left;
 }
@@ -119,11 +121,12 @@ a.contactlink {
     color: #FFFFFF;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 0px 30px 0px 0px;
+    padding: 0px 35px 0px 0px;
     margin: 0px;
     background-image: url('Images/Templates/email.png');
+    background-size:30px 30px;
     background-repeat: no-repeat;
-    background-position: right 0px;
+    background-position: right;
 }
 p {
     color: #666666;
@@ -133,9 +136,10 @@ p {
 a.zoom {
     color: #FFFFFF;
     text-decoration: none;
-    padding: 0px 0px 5px 20px;
+    padding: 0px 35px 5px 20px;
     margin: 0px;
     background-image: url('Images/Templates/search.png');
+    background-size:30px 30px;
     background-repeat: no-repeat;
-    background-position: 0px 0px;
+    background-position: right ;
 }

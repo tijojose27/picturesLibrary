@@ -5,16 +5,9 @@
 /// <reference path="Scripts/jquery.fancybox.js" />
 
 $(document).ready(function () {
-    $('.gallery_thumbnails a').click(function (e) {
+    $('.gallery_thumbnails a').hover(function (e) {
 
         e.preventDefault();
-
-        //thumbnails
-        //$('.gallery_thumbnails a').removeClass('selected');
-        //$('.gallery_thumbnails a').children().css('opacity', '1');
-
-        //$(this).addClass('selected');
-        //$(this).children().css('opacity', '0.4');
 
         //setting up variables
         var photo_caption = $(this).attr('title');
@@ -40,6 +33,8 @@ $(document).ready(function () {
             });
         });
     });
+
+
     //initialize gallery on load
     var first_photo_caption = $('.gallery_thumbnails a').first().attr('title');
     var first_photo_fullsize = $('.gallery_thumbnails a').first().attr('href');
@@ -71,7 +66,6 @@ $(document).ready(function () {
 function setFancyboxLinks() {
 
     $('a.overlaylink').fancybox({
-
         'titlePosition': 'over',
         'overlayColor': '#000',
         'overlayOpacity': 0.8,

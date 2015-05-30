@@ -58,7 +58,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
+    <Content Include="Gallery.aspx" />
     <Content Include="gallery.js" />
+    <Content Include="Images\Templates\email.png" />
+    <Content Include="Images\Templates\search.png" />
     <Content Include="Images\User Images\dramatic-landscape.jpg" />
     <Content Include="Images\User Images\dramatic-landscape_preview.jpg" />
     <Content Include="Images\User Images\early-sunrays.jpg" />
@@ -83,11 +86,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Home.aspx" />
-    <Content Include="Images\Templates\email.png" />
     <Content Include="Images\Templates\bottom.jpg" />
     <Content Include="Images\Templates\tile.jpg" />
     <Content Include="Images\Templates\top.jpg" />
-    <Content Include="Images\Templates\search.png" />
     <Content Include="Images\User Images\dramatic-landscape_thumbnail.jpg" />
     <Content Include="Images\User Images\early-sunrays_thumbnail.jpg" />
     <Content Include="Images\User Images\path-in-nature_thumbnail.jpg" />
@@ -99,6 +100,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Gallery.aspx.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Gallery.aspx.designer.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
